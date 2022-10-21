@@ -1,16 +1,16 @@
 {
-"name": "klotto",
-"theme": "k lotto",
-"version": "10.1.4",
-"description": "k lotto สมัครเว็บไซต์พนันเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"k lotto",
-"k lotto เครดิตฟรี",
-"k lotto ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/klotto",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "klotto",
+  "theme": "k lotto",
+  "version": "10.2.0",
+  "description": "k lotto สมัครเว็บไซต์พนันเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "k lotto",
+    "k lotto เครดิตฟรี",
+    "k lotto ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/klotto",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
